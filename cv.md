@@ -39,16 +39,16 @@ function multiply(a, b){
 
 - ## Skills: (some of them are still in process:))
 
-  1.  HTML
+  1.  HTML (in progress)
 
-  2)  CSS
-  3)  Flexx
-  4)  Figma
-  5)  JS
-  6)  NodeJS
-  7)  React
+  2)  CSS (in progress)
+  3)  Flexx (in progress)
+  4)  Figma (in progress)
+  5)  JS (in progress)
+  6)  NodeJS (in progress)
+  7)  React (in progress)
 
-  8. GIT
+  8. GIT (in progress)
 
 - ## Job experience:
 
